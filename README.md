@@ -1,18 +1,59 @@
 # 💫 About Me:
-Computer Science student exploring problem-solving and web development.<br>Currently learning DSA and building beginner-friendly full-stack projects using JavaScript, Node.js, and MongoDB.<br>Open to internships and real-world learning opportunities.
+🎯 Aspiring Data Analyst and Computer Science student passionate about transforming raw data into meaningful insights.
 
+📊 Skilled in **SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI**, with a strong foundation in problem-solving through Data Structures & Algorithms.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-ahlawat-67a593328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolahlawat007@gmail.com) 
+📈 Interested in data cleaning, exploratory data analysis (EDA), dashboard development, and solving real-world business problems using data.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anmolahlawat&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anmolahlawat&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolahlawat&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💼 Currently seeking **Data Analyst Internship** opportunities to gain hands-on industry experience and contribute to data-driven decision making.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anmolahlawat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-ahlawat-67a593328)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmolahlawat007@gmail.com)
+
+---
+
+# 💻 Skills & Tools:
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📚 Currently Learning:
+- Advanced SQL (CTEs, Window Functions, Query Optimization)
+- Power BI Dashboard Development
+- Python for Data Analysis
+- Statistics for Data Analytics
+- Data Cleaning & Exploratory Data Analysis (EDA)
+
+---
+
+# 🚀 Featured Projects:
+- 📊 Customer Behaviour Analysis
+- 🚕 Bengaluru Ride Booking Data Analysis
+- 📈 Interactive Power BI Dashboards
+- 🐍 Python Data Analysis using Pandas & Matplotlib
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=anmolahlawat&theme=bear&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=anmolahlawat&theme=bear&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolahlawat&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=anmolahlawat&icon=0&color=0)
